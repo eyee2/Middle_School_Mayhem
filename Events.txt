@@ -1,0 +1,33 @@
+**BEEP BEEP BEEP BEEP BEEP BEEP BEEP BEEP**
+ 
+Argh! That time already? 
+ 
+—Look over and see the time is 7:00 AM—
+ 
+—You don’t want to wake up for another mundane day of school, but decide that remaining in bed is likely unfeasible given your parents’ attitude toward education.—
+ 
+—Bleary-eyed, you stumble into the bathroom and begin to get ready for school—
+ 
+—Whilst brushing your teeth, you consider if showering is truly worth your while…—
+ 
+What, are you a CS major? Get into the shower!
+ 
+—You finish getting ready, and descend the stairs into your kitchen—
+ 
+“Mom, I want to go to school too!” says your imbecilic younger sister. Refraining from shattering her misguided opinions regarding middle school, you decide to be the bigger person and keep you mouth shut.
+ 
+“Honey, what would you like for breakfast?” asks your mother. 
+ 
+“I’m thirteen years old, mom. You named me **NAME**, so call me it!” you say, with no small amount of angst.
+ 
+—Your mother offers to make you pancakes for breakfast, or you can try your hand at making yourself scrambled eggs, and taking one small step toward independence—
+ 
+Would you like pancakes, or scrambled eggs (p/e)?
+ 
+@@
+ 
+—You look at the time, and realize you must now decide whether to take the bus, with the local cretins and refuse, or remain aloof, riding with your parents, perpetuating your undeserved sense of entitlement.—
+ 
+Would you like to take the bus, or ride with your parents (b/r)?
+ 
+@@
