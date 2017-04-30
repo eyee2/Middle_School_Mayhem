@@ -2,4 +2,4 @@
 // Created by Ethan on 4/9/2017.
 //
 
-#include "Player.hpp"
+#include "player.hpp"

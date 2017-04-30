@@ -12,6 +12,7 @@ public:
 private:
     std::string Name;
     char gender;
+    bool breakFastFood;
     //Booleans to branch depending on player decisions
     bool choice1;
     bool choice2;

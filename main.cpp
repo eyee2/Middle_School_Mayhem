@@ -1,7 +1,8 @@
 #include <iostream>
 #include <fstream>
 #include "Event.hpp"
-
+bool continueGame;
+Event events;
 int main() {
     std::ifstream titleStream ("Title.txt");
     std::string line;
@@ -13,12 +14,15 @@ int main() {
     for (auto i : title) {
         std::cout << i << std::endl;
     }
+    std::cout << "\n\n\n\n\n" << std::endl;
         titleStream.close();
-    /*while(continueGame)
+    events.readEvents();
+    continueGame = true;
+    while(continueGame){
 
-        std::cout << ""<< std::endl;
-        Event::generateEvent();
+        std::cout << events.popEvent() << std::endl;
+        std::cin
     }
-     */
+
     return 0;
 }
