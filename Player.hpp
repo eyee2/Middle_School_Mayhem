@@ -8,17 +8,11 @@
 
 class Player {
 public:
-
-private:
+    Player();
     std::string Name;
-    char gender;
-    bool breakFastFood;
-    //Booleans to branch depending on player decisions
-    bool choice1;
-    bool choice2;
-    bool choice3;
-    //Variable to track exit decisions
-    bool continueGame;
+    char breakfastFood;
+    char transport;
+private:
 };
 
 

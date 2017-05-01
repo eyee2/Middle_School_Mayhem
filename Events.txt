@@ -2,32 +2,99 @@
  
 Argh! That time already? 
  
-—Look over and see the time is 7:00 AM—
+--Look over and see the time is 7:00 AM--
  
-—You don’t want to wake up for another mundane day of school, but decide that remaining in bed is likely unfeasible given your parents’ attitude toward education.—
+--You don't want to wake up for another mundane day of school, but decide that remaining in bed is likely unfeasible given your parents' attitude toward education.--
  
-—Bleary-eyed, you stumble into the bathroom and begin to get ready for school—
+--Bleary-eyed, you stumble into the bathroom and begin to get ready for school--
  
-—Whilst brushing your teeth, you consider if showering is truly worth your while…—
+--Whilst brushing your teeth, you consider if showering is truly worth your while--
  
 What, are you a CS major? Get into the shower!
  
-—You finish getting ready, and descend the stairs into your kitchen—
+--You finish getting ready, and descend the stairs into your kitchen--
  
-“Mom, I want to go to school too!” says your imbecilic younger sister. Refraining from shattering her misguided opinions regarding middle school, you decide to be the bigger person and keep you mouth shut.
+"Mom, I want to go to school too!" says your imbecilic younger sister. Refraining from shattering her misguided opinions regarding middle school, you decide to be the bigger person and keep you mouth shut.
  
-“Honey, what would you like for breakfast?” asks your mother. 
+"Honey, what would you like for breakfast?" asks your mother. 
  
-“I’m thirteen years old, mom. You named me **NAME**, so call me it!” you say, with no small amount of angst.
+"I'm thirteen years old, mom. You gave me a name, so call me by it!" you say, with no small amount of angst.
  
-—Your mother offers to make you pancakes for breakfast, or you can try your hand at making yourself scrambled eggs, and taking one small step toward independence—
+--Your mother offers to make you pancakes for breakfast, or you can try your hand at making yourself scrambled eggs, and taking one small step toward independence--
  
 Would you like pancakes, or scrambled eggs (p/e)?
  
 @@
  
-—You look at the time, and realize you must now decide whether to take the bus, with the local cretins and refuse, or remain aloof, riding with your parents, perpetuating your undeserved sense of entitlement.—
+--You look at the time, and realize you must now decide whether to take the bus, with the local cretins and refuse, or remain aloof, riding with your parents, perpetuating your undeserved sense of entitlement.--
  
 Would you like to take the bus, or ride with your parents (b/r)?
  
 @@
+
+
+            Gym Class
+            ________
+    o      |   __   |
+      \_ O |  |__|  |
+   ____/ \ |___WW___|
+   __/   /     ||
+               ||
+               ||
+_______________||________________
+
+--Ahh, gym class. Where the weak are penalized for their being, and the jerks learn that being in power necessarily entails those underneath you suffering unduly.--
+
+--"Into the gym everybody," says Mr. Micklo, your 220-lb 6'4" gym teacher. "Today is dodgeball!" he says, with a grin.--
+
+@@
+
+--Fourth period. Almost done.
+
+--After your triumph in gym class, you came off from your preworkout high, and savage destruction of your enemy.
+
+--Feeling wholly mortal yet again, you walk into math class.
+
+--"Good afternoon scholars! I sincerely hope your days have gone according to plan, and that you're ready for a fun-filled final period!" says Mr. Byrne, a little too excitedly for you.
+
+--You resist the urge to vomit when you see that the entirety of class will be spent on practicing polynomials and foiling.
+
+--"Gosh, I bet college math will be SOOOO much easier," you say to your friend.
+
+--Out of the corner of your eye, you notice him/her. Your gender-neutral crush, SMOL, is sitting diagonally from you, furiously at work on the packet Mr. Byrne handed out moments ago. 
+
+--"Is that 0.5mm lead?" you think to yourself. What professionalism... That's a guy/girl that's going places. 
+
+--Ten minutes later, you realize that you've been in some semi-conscious state, and have failed to complete any of your packet.
+
+--What is the answer to the question on the board?" Mr. Byrne asks you. 
+
+--n^4 + 6n^3 + 11n^2 + 6n + 1 is written on the board.
+
+@@
+
+--You watch the clock countdown the final seconds of the day. The bell finally rings and you pack up you materials to return home.
+
+--That's when it happens. You lock eyes with Gary, your nemesis since 1st grade and the world around you fade as your focus is overwhelmed by their sneering face.
+
+--"Your socks are untied buttface"
+
+--Without thinking you look down and walk right into their elaborate ruse. You've been coaxed into a snafu!
+
+--"So, chicken, what are the odds you pull the fire alarm?"
+
+--Having to redeem yourself you immediately meet their challenge. "ONE in TWO, a$$hat"
+
+--You feel the pressure of a lifetime of failures riding on this one chance at redemption. In a way, every moment of your life has prepared you for this moment.
+
+--One Shot
+
+--One Opportunity
+
+--To seize everything you ever wanted
+
+--In one moment
+
+@@
+
+

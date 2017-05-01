@@ -3,3 +3,9 @@
 //
 
 #include "player.hpp"
+
+Player::Player() {
+    std::string name;
+    char breakfastFood;
+    char transport;
+}

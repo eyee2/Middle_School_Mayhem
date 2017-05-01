@@ -16,11 +16,13 @@ public:
     std::vector<std::string> eventQueue;
     std::vector<std::vector<std::string>> responses;
 
-    std::string popEvent();
+    void popEvent();
 
     void readEvents();
 
-    void readResponses();
+    void readResponses(std::ifstream responseStream);
+
+    void printResponses(int index);
 
 
 private:
